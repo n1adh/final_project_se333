@@ -2,7 +2,7 @@
 
 A Python-based **Model Context Protocol (MCP) server** providing automated code quality analysis and testing analysis tools, built with `fastmcp` over SSE transport.
 
-**Repository:** [github.com/ghaccount409-school/final_project_se333_NigelMaloney](https://github.com/ghaccount409-school/final_project_se333_NigelMaloney)
+**Repository:** [github.com/ghaccount409-school/final_project_se333](https://github.com/ghaccount409-school/final_project_se333)
 
 ---
 
